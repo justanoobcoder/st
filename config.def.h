@@ -8,7 +8,7 @@
 static char *font = "Hack Nerd Font:pixelsize=15:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-    "Noto Color Font:pixelsize=15:antialias=true:autohint=true",
+    "Noto Color Emoji:pixelsize=15:antialias=true:autohint=true",
     "JetBrainsMono Nerd Font:pixelsize=15:antialias=true:autohint=true"
 };
 
