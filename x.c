@@ -1225,7 +1225,6 @@ void
 xinit(int cols, int rows)
 {
 	XGCValues gcvalues;
-	Cursor cursor;
 	Window parent;
 	pid_t thispid = getpid();
 	XColor xmousefg, xmousebg;
