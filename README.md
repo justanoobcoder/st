@@ -12,6 +12,8 @@ This is my custom st build. It contains these patches:
 + [newterm](https://st.suckless.org/patches/newterm/)
 + [scrollback](https://st.suckless.org/patches/scrollback/)
 + [undercurl](https://st.suckless.org/patches/undercurl/)
++ [netwmicon](https://st.suckless.org/patches/netwmicon/)
++ [desktopentry](https://st.suckless.org/patches/desktopentry/)
 
 ## Installation
 Edit config.mk file to match your local setup (st is installed into the `/usr/local` namespace by default).
