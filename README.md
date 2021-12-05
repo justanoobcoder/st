@@ -39,7 +39,7 @@ sudo make uninstall
 | Ctrl + Up             | Zoom in                                                                           |
 | Ctrl + Down           | Zoom out                                                                          |
 | Ctrl + Wheel up       | Zoom in                                                                           |
-| Ctrl + Whell down     | Zoom out                                                                          |
+| Ctrl + Wheel down     | Zoom out                                                                          |
 | Shift + Up            | Scroll up                                                                         |
 | Shift + Down          | Scroll down                                                                       |
 | Wheel up              | Scroll up                                                                         |
@@ -48,7 +48,7 @@ sudo make uninstall
 | Shift + PageDown      | Fast scroll down                                                                  |
 
 ## Configuration
-The configuration of st is done by editing the config.def.h file and (re)compiling the source code.
+The configuration of st is done by editing `config.def.h` file and (re)compiling the source code.
 ```
 sudo make install clean
 ```
